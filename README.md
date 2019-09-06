@@ -1,2 +1,2 @@
 # hello-world
-this repository is for me to learn how to use GitHub and how to code
+This repository is for me to learn how to use github. I am a junior at virginia tech and I double major in Creative Writing and Professional & Technical Writing.
